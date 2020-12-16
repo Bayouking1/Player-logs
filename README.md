@@ -4,7 +4,7 @@
 
 1 Programming board 
 
-4 Screens 
+3 Screens 
 
 1 Data Bank 
 
